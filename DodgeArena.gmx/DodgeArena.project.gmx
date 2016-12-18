@@ -38,7 +38,6 @@
     <sprite>sprites\sprite_los_cone2</sprite>
     <sprite>sprites\sprite_hitbox</sprite>
     <sprite>sprites\sprite_spark</sprite>
-    <sprite>sprites\sprite_pokemon</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
