@@ -40,6 +40,18 @@
     <sprite>sprites\sprite_spark</sprite>
     <sprite>sprites\sprite_ensprite</sprite>
     <sprite>sprites\ALLAH</sprite>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <sprite>sprites\sprite_MUSA</sprite>
+=======
+>>>>>>> 818bac998dfb4bb6bbd29c4d0a3b2758a28efd3f
+=======
+<<<<<<< HEAD
+    <sprite>sprites\sprite_ERTAN</sprite>
+=======
+    <sprite>sprites\PEYGAMBER</sprite>
+>>>>>>> 65bfd75f22427dfd6384d4a03e123bf83e1680f1
+>>>>>>> f64afc709ddd8ead704a0b2db5af9dd6ed00bc30
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
