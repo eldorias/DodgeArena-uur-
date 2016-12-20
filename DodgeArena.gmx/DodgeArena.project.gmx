@@ -41,6 +41,7 @@
     <sprite>sprites\sprite_ensprite</sprite>
     <sprite>sprites\spr_ALLAH</sprite>
     <sprite>sprites\MATAH</sprite>
+    <sprite>sprites\YOLO</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
