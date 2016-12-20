@@ -39,7 +39,7 @@
     <sprite>sprites\sprite_hitbox</sprite>
     <sprite>sprites\sprite_spark</sprite>
     <sprite>sprites\sprite_ensprite</sprite>
-    <sprite>sprites\ALLAH</sprite>
+    <sprite>sprites\spr_ALLAH</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
