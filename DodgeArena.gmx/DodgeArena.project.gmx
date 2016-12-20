@@ -44,6 +44,7 @@
     <sprite>sprites\YOLO</sprite>
     <sprite>sprites\OSMAN</sprite>
     <sprite>sprites\T_LLAH</sprite>
+    <sprite>sprites\TEHEY</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
