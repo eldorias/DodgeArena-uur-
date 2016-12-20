@@ -43,6 +43,7 @@
     <sprite>sprites\MATAH</sprite>
     <sprite>sprites\YOLO</sprite>
     <sprite>sprites\OSMAN</sprite>
+    <sprite>sprites\T_LLAH</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
