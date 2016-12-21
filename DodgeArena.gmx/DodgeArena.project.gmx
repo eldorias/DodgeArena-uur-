@@ -38,13 +38,6 @@
     <sprite>sprites\sprite_los_cone2</sprite>
     <sprite>sprites\sprite_hitbox</sprite>
     <sprite>sprites\sprite_spark</sprite>
-    <sprite>sprites\sprite_ensprite</sprite>
-    <sprite>sprites\spr_ALLAH</sprite>
-    <sprite>sprites\MATAH</sprite>
-    <sprite>sprites\YOLO</sprite>
-    <sprite>sprites\OSMAN</sprite>
-    <sprite>sprites\T_LLAH</sprite>
-    <sprite>sprites\TEHEY</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
